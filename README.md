@@ -1,2 +1,5 @@
 # Python_HelloWorld
-Learning python
+
+Learning python :)
+
+ ![Logo](python-logo.png)
