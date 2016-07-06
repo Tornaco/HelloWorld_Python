@@ -1,2 +1,2 @@
 # This line is comment
-print "Hello Python!"
+print ("Hello Python!")
